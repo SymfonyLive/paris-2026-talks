@@ -69,7 +69,7 @@ By [Jérôme Tamarelle](https://connect.symfony.com/profile/gromnan)
 By [Jérémie Augustin](https://connect.symfony.com/profile/jaugustin)  
 💻 on [![github](icon/github.svg) @jaugustin](https://github.com/jaugustin)  
 _✍ blog not found_  
-💬 on [![twitter](icon/twitter.svg) @jaugustin](https://twitter.com/jaugustin)
+💬 on [![twitter](icon/twitter.svg) @pixeljer](https://twitter.com/pixeljer)
 
 ---
 
