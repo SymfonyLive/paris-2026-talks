@@ -62,7 +62,7 @@ By [Jérôme Tamarelle](https://connect.symfony.com/profile/gromnan)
   <dd>On est partis d’un cron solitaire, tournant discrètement dans l’ombre d’un serveur. Aujourd’hui, on orchestre un Scheduler Symfony distribué, déployé sur Kubernetes, capable de piloter des centaines de tâches en parallèle avec fiabilité. Ce talk raconte cette migration pleine d’enseignements — entre verrous, scalabilité horizontale, observabilité, et une bonne dose de magie Symfony. Vous y découvrirez comment un simple cron s’est transformé en un système robuste, mais aussi les nombreux pièges rencontrés en chemin : - des problèmes d’observabilité difficiles à diagnostiquer, - des locks Symfony qui bloquent tout le scheduler, - et quelques surprises liées au scaling horizontal. Bref, une aventure concrète, pleine de sueur, de logs, de metric, et de solutions ingénieuses.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/jaugustin/100-crons-par-seconde-le-scheduler-se-venge)  
 ~~Video~~  
 ~~Blog post~~
 
