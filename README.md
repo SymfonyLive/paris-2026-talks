@@ -23,7 +23,8 @@
 
 ~~Slides~~  
 ~~Video~~  
-~~Blog post~~
+~~Blog post~~  
+[PR of the new component](https://github.com/symfony/symfony/pull/63778)
 
 By [Fabien Potencier](https://connect.symfony.com/profile/fabpot)  
 💻 on [![github](icon/github.svg) @fabpot](https://github.com/fabpot)  <sup>[💚](https://github.com/sponsors/fabpot)</sup>  
