@@ -138,7 +138,7 @@ _✍ blog not found_
   <dd>Tout a commencé avec une idée simple : Et si l’IA pouvait rendre nos revues de code plus cohérentes, plus rapides… et un peu moins pénibles ? Chez Yousign, cette question est née d’un besoin plus large : Comment faire évoluer la pratique de Code Review à l’échelle, sans perdre la rigueur ni la culture d’équipe ? L’enjeu n’était pas seulement technique, mais organisationnel : Faire du Code Review un moment d’apprentissage partagé, au service de la qualité et de la transmission. Et c’est là que l’IA entre en jeu, non pas pour remplacer le regard humain, mais pour aider à structurer, amplifier et diffuser les bonnes pratiques à travers toute l’équipe. Un retour d’expérience honnête et pragmatique sur la place que peut prendre l’IA dans nos pratiques de développement et d’équipe.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/toham/lia-au-service-des-devs-anatomie-dun-assistant-de-code-review)  
 ~~Video~~  
 ~~Blog post~~
 
