@@ -23,7 +23,7 @@
 
 ~~Slides~~  
 ~~Video~~  
-~~Blog post~~  
+[Blog post](https://symfony.com/blog/introducing-the-symfony-tui-component)  
 [PR of the new component](https://github.com/symfony/symfony/pull/63778)
 
 By [Fabien Potencier](https://connect.symfony.com/profile/fabpot)  
