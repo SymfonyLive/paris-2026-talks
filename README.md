@@ -254,7 +254,7 @@ _✍ blog not found_
   <dd>On parle beaucoup d’IA, mais rarement de ce qu’on peut *vraiment* en faire dans un projet PHP. Avec Symfony AI, il devient enfin possible de manipuler des modèles d’embeddings, de génération ou de classification sans quitter son écosystème habituel. Dans ce talk, on explore concrètement l’usage des **embeddings** avec Symfony AI, à travers un exemple simple : rapprocher automatiquement des pages web par similarité.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/lyrixx/embeddings-symfony-ai-en-pratique)  
 ~~Video~~  
 ~~Blog post~~
 
