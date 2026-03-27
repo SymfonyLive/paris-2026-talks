@@ -43,7 +43,7 @@ By [Fabien Potencier](https://connect.symfony.com/profile/fabpot)
   <dd>Stocker l'email, la date de naissance ou le numéro de sécurité sociale de vos utilisateurs en clair est un risque majeur en cas de fuite de base de données. Avec un chiffrement robuste coté applicatif, on peut rendre la donnée illisible par la base de données. Mais alors il impossible de faire un WHERE email = :valeur. Comment sécuriser vos données sensibles sans sacrifier les fonctionnalités métier indispensables ? Nous verrons comment implémenter le chiffrement par champ coté client avec Doctrine et un système de gestion de clé. Les algorithmes à utiliser, gestion des clés et leur rotation : apprenez à transformer votre base de données en coffre-fort sans perdre votre capacité à la requêter.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://jerome.tamarelle.net/slides/2026-03-26-SymfonyLive_Paris-Chiffrement_avec_Doctrine.pdf)  
 ~~Video~~  
 ~~Blog post~~
 
