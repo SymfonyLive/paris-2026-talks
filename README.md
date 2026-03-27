@@ -198,7 +198,7 @@ By [Nicolas Grekas](https://connect.symfony.com/profile/nicolas-grekas)
   <dd>Vous avez déjà eu envie de faire hériter des tables comme des classes lorsque vous modélisez votre base de données ? Vous devriez lier une entité à plusieurs autres de type similaire ? Doctrine prend en charge l’héritage pour gérer cela proprement. Par exemple, vous pouvez définir une entité de base User et l’étendre avec des classes Admin et Customer (chacune avec sa propre table ou une table partagée). On verra ensemble les stratégies disponibles, quand les utiliser, ainsi que les pièges courants. Aucune connaissance préalable de l’héritage Doctrine n’est requise !</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://rjanot.github.io/doctine-inheritance-sflive2026/)  
 ~~Video~~  
 ~~Blog post~~
 
