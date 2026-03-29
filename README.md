@@ -120,7 +120,7 @@ By [Fabien Potencier](https://connect.symfony.com/profile/fabpot)
   <dd>Et si votre application Symfony pouvait alimenter à la fois le web et des applications mobiles natives, sans tout réécrire en Swift, Kotlin ou React Native ? Dans ce talk, nous verrons comment Symfony, combiné à Hotwire Native, permet une approche write once, ship everywhere. À partir d’une application web Symfony classique, nous montrerons comment réutiliser le même backend, les vues et la logique métier pour livrer des applications iOS et Android natives, performantes et maintenables. Nous aborderons notamment : L’architecture de Hotwire Native et son intégration avec Symfony Le partage de code entre le web et le mobile Des cas d’usage concrets (QR code, NFC, scan de documents) Les compromis face aux approches 100 % natives ou React Native Ce talk s’adresse aux développeurs Symfony, CTO et tech leads souhaitant lancer des applications mobiles plus rapidement, réduire les coûts de maintenance et conserver une stack simple, sans sacrifier l’expérience utilisateur.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://docs.google.com/presentation/d/1rovLnBkCGcagtjn-7u-weO2S1ohHJoHstKcGzljMfJI)  
 ~~Video~~  
 ~~Blog post~~
 
