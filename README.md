@@ -216,14 +216,14 @@ _✍ blog not found_
   <dd>On a tous une MySQL ou une PostgreSQL dans notre stack Symfony et elles font un super job. Pour autant, pour de l'analytique, des logs ou des métriques, lorsqu'on a besoin de performance temps-réel à grande échelle ou gros volume, on peut atteindre facilement leurs limites. C'est à ce moment que ClickHouse vous sauve. Dans ce talk, nous verrons : - L'architecture des bases de données orientées colonnes et dans quels cas elles nous épatent - Comment interagir avec ClickHouse dans une app Symfony - Comment déployer ClickHouse en quelques lignes - Les fonctionnalités clés pour construire des dashboards temps-réel - Des exemples concrets d'agrégations avec des benchmarks - Des trucs et astuces et des bonnes pratiques.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/romainneutron/clickhouse-for-symfony-developers-symfonylive-paris-2026)  
 ~~Video~~  
 ~~Blog post~~
 
 By [Romain Neutron](https://connect.symfony.com/profile/romain)  
-💻 on [![github](icon/github.svg) @romain](https://github.com/romain)  
+💻 on [![github](icon/github.svg) @romainneutron](https://github.com/romainneutron)  
 _✍ blog not found_  
-💬 on [![twitter](icon/twitter.svg) @romain](https://twitter.com/romain)
+💬 on [![twitter](icon/twitter.svg) @romainneutron](https://twitter.com/romainneutron)
 · [![linkedin](icon/linkedin.svg) romainneutron](https://www.linkedin.com/in/romainneutron)
 
 ---
