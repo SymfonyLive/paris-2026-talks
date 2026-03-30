@@ -274,9 +274,9 @@ By [Grégoire Pineau](https://connect.symfony.com/profile/lyrixx)
   <dd>Plus besoin de développer une application frontend séparée en Javascript pour créer des applications web rapides et interactives. Avec Hotwire Turbo, le HTML et ses fragments se chargent de façon asynchrone, et grâce à Turbo Streams, vous pouvez même pousser des mises à jour directement du backend vers le frontend. Hotwire Stimulus vient compléter Turbo avec un outil élégant pour ajouter la logique Javascript uniquement là où elle est indispensable. Le tout est parfaitement intégré dans Symfony grâce aux composants Symfony UX.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://davidbu.ch/slides/2026-03-27-symfony-live-ux.html)  
 ~~Video~~  
-~~Blog post~~
+[Blog post](https://davidbu.ch/mann/blog/2026-03-27/symfony-live-ux/)
 
 By [David Buchmann](https://connect.symfony.com/profile/dbu)  
 💻 on [![github](icon/github.svg) @dbu](https://github.com/dbu)  
