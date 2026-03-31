@@ -158,7 +158,7 @@ _✍ blog not found_
   <dd>Oubliez tout ce que vous savez sur la mise en place d'un environnement de développement PHP. Fini les configurations complexes de php-fpm, les galères de permissions sur Docker ou la lenteur de la régération du cache de l'application à chaque rafraîchissement (Sylius, je te vois). En 2026, FrankenPHP a non seulement révolutionné la production, mais il redéfinit totalement la Developer Experience (DX) de Symfony. Dans ce talk, je vous montrerai comment nous avons repoussé les limites du serveur d'application pour offrir un workflow fluide, instantané et moderne.</dd>
 </dl>
 
-[Slides](https://speakerdeck.com/dunglas/coding-at-the-speed-of-thought-the-new-era-of-symfony-docker)
+[Slides](https://speakerdeck.com/dunglas/coding-at-the-speed-of-thought-the-new-era-of-symfony-docker)  
 ~~Video~~  
 [Blog post](https://dunglas.dev/2026/03/coding-at-the-speed-of-thought-the-new-era-of-symfony-docker/)
 
