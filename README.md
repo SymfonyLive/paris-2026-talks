@@ -160,7 +160,7 @@ _✍ blog not found_
 
 ~~Slides~~  
 ~~Video~~  
-~~Blog post~~
+[Blog post](https://dunglas.dev/2026/03/coding-at-the-speed-of-thought-the-new-era-of-symfony-docker/)
 
 By [Kévin Dunglas](https://connect.symfony.com/profile/dunglas)  
 💻 on [![github](icon/github.svg) @dunglas](https://github.com/dunglas)  <sup>[💚](https://github.com/sponsors/dunglas)</sup>  
