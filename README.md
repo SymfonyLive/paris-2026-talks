@@ -183,7 +183,8 @@ By [Kévin Dunglas](https://connect.symfony.com/profile/dunglas)
 
 ~~Slides~~  
 ~~Video~~  
-~~Blog post~~
+~~Blog post~~  
+[PR on FrankenPHP](https://github.com/php/frankenphp/pull/2287)
 
 By [Nicolas Grekas](https://connect.symfony.com/profile/nicolas-grekas)  
 💻 on [![github](icon/github.svg) @nicolas-grekas](https://github.com/nicolas-grekas)  <sup>[💚](https://github.com/sponsors/nicolas-grekas)</sup>  
