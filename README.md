@@ -14,6 +14,7 @@
 
 - [JoliCode.com/blog](https://jolicode.com/blog/notre-retour-sur-le-symfonylive-paris-2026)  <sup>[![rss](icon/rss.svg)](https://jolicode.com/feed.rss)</sup>
 - [Les-Tilleuls.coop/blog](https://les-tilleuls.coop/blog/symfonylive-paris-2026-tui-base-de-donnees-et-frankenphp)  <sup>[![rss](icon/rss.svg)](https://les-tilleuls.coop/feed.xml)</sup>
+- [blog.Webnet.fr](https://blog.webnet.fr/webnet-au-symfonylive-paris-2026-retour-sur-une-premiere-journee-au-coeur-de-linnovation/)  <sup>[![rss](icon/rss.svg)](https://feeds.feedburner.com/webnet/blogwebnet)</sup>
 - _Your blog post here? [Modify this file and send a PR](https://github.com/SymfonyLive/paris-2026-talks/edit/main/README.md)_
 
 ---
